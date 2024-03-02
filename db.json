@@ -1,0 +1,88 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "users": [
+    {
+      "id": 11,
+      "name": "mursaleen1234",
+      "email": "rashir@gamil.com",
+      "phone": "032369"
+    },
+    {
+      "id": 16,
+      "name": "Mursaleen123",
+      "email": "jamahmad594@email.com",
+      "phone": "03236989128"
+    },
+    {
+      "id": 17,
+      "name": "Mursaleen56700",
+      "email": "rashir@gamil.com",
+      "phone": "03236987273"
+    },
+    {
+      "initialValues": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      },
+      "name": "Mursaleen5678",
+      "email": "jamahmad594@email.com",
+      "phone": "03236989128",
+      "id": 18
+    },
+    {
+      "initialValues": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      },
+      "name": "Muhammad Mursaleen 12",
+      "email": "volel75570@othao.com",
+      "phone": "03236987273",
+      "id": 19
+    },
+    {
+      "initialValues": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      },
+      "name": "salmab",
+      "email": "rashir@gamil.com",
+      "phone": "03236989128",
+      "id": 23
+    },
+    {
+      "id": 24,
+      "name": "Muhammad Mursaleen ",
+      "email": "volel75570@othao.com",
+      "phone": "03236989128"
+    },
+    {
+      "id": 25,
+      "name": "salmab12",
+      "email": "volel75570@othao.com",
+      "phone": "03236989128"
+    },
+    {
+      "initialValues": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      },
+      "name": "salmab",
+      "email": "rashir@gamil.com",
+      "phone": "03236989128",
+      "id": 26
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
